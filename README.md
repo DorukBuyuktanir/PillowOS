@@ -1,2 +1,2 @@
 # PillowOS
- An Operating system I am just making for fun
+ An Operating system I am making just for fun..:)
